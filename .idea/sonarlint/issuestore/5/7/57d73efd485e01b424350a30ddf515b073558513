@@ -1,21 +1,23 @@
 
-Ksquid:S1940w"(Use the opposite operator ("<") instead.(‘±€âşÿÿÿÿ8™¦-
-Ksquid:S1940t"(Use the opposite operator ("<") instead.(æ†ä’úÿÿÿÿ8ŒÃ’¦-
+<squid:S2178n"Correct this "&" to "&&".(åßôÿÿÿÿÿ8°Êü¦-
+<squid:S2178r"Correct this "&" to "&&".(æ†ä’úÿÿÿÿ8³€”¦-
+Ksquid:S1940r"(Use the opposite operator (">") instead.(æ†ä’úÿÿÿÿ8ŒÃ’¦-
 Xsquid:S1118
 ":Add a private constructor to hide the implicit public one.(ÔçÚî8õ¬Š¦-
-<squid:S2178l"Correct this "&" to "&&".(‘Æ—àÿÿÿÿÿ8À‘Ò¦-
-|squid:S1450"YRemove the "scoreCheck" field and declare it as a local variable in the relevant methods.(¦…ª·øÿÿÿÿ8Ò¥¦-
-<squid:S2178p"Correct this "&" to "&&".(åßôÿÿÿÿÿ8°Êü¦-
-Ksquid:S1940p"(Use the opposite operator (">") instead.(åßôÿÿÿÿÿ8Êö„¦-
-<squid:S2178t"Correct this "&" to "&&".(æ†ä’úÿÿÿÿ8³€”¦-
-:squid:S2757n"Was "-=" meant instead?(¤™úÏıÿÿÿÿ8ñ´‹¦-
-Ksquid:S1940l"(Use the opposite operator ("<") instead.(‘Æ—àÿÿÿÿÿ8Æ¢æ¦-
-Ksquid:S1940p"(Use the opposite operator ("<") instead.(åßôÿÿÿÿÿ8°Êü¦-
+Zsquid:UnusedPrivateMethod-".Remove this unused private "onlyOwner" method.(ˆ’¦­8™È–•¦-
+nsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(ö§×Ãÿÿÿÿÿ8‚²ò’¦-
 Qsquid:UselessImportCheck"'Remove this unused import 'avm.Result'.(¾„²p8š¶â’¦-
-Ksquid:S1940t"(Use the opposite operator (">") instead.(æ†ä’úÿÿÿÿ8ŒÃ’¦-
-:squid:S2757r"Was "-=" meant instead?(Ùù«éıÿÿÿÿ8¦ş‹¦-
-isquid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(ŞŠ€›8‚²ò’¦-
-hsquid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(·ø¼Y8‚²ò’¦-
-Ksquid:S1940w"(Use the opposite operator (">") instead.(‘±€âşÿÿÿÿ8™¦-
-Ksquid:S1940l"(Use the opposite operator (">") instead.(‘Æ—àÿÿÿÿÿ8ıÿ…¦-
-<squid:S2178w"Correct this "&" to "&&".(‘±€âşÿÿÿÿ8´‘ ¦-
+:squid:S2757l"Was "-=" meant instead?(¤™úÏıÿÿÿÿ8ñ´‹¦-
+:squid:S2757p"Was "-=" meant instead?(Ùù«éıÿÿÿÿ8¦ş‹¦-
+<squid:S2178j"Correct this "&" to "&&".(‘Æ—àÿÿÿÿÿ8À‘Ò¦-
+<squid:S2178u"Correct this "&" to "&&".(‘±€âşÿÿÿÿ8´‘ ¦-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñ¸ï‘øÿÿÿÿ8™È–•¦-
+Ksquid:S1940j"(Use the opposite operator (">") instead.(‘Æ—àÿÿÿÿÿ8ıÿ…¦-
+Ksquid:S1940n"(Use the opposite operator (">") instead.(åßôÿÿÿÿÿ8Êö„¦-
+Ksquid:S1940u"(Use the opposite operator ("<") instead.(‘±€âşÿÿÿÿ8™¦-
+Ksquid:S1940r"(Use the opposite operator ("<") instead.(æ†ä’úÿÿÿÿ8ŒÃ’¦-
+Ksquid:S1940u"(Use the opposite operator (">") instead.(‘±€âşÿÿÿÿ8™¦-
+Ksquid:S1940j"(Use the opposite operator ("<") instead.(‘Æ—àÿÿÿÿÿ8Æ¢æ¦-
+|squid:S1450"YRemove the "scoreCheck" field and declare it as a local variable in the relevant methods.(¦…ª·øÿÿÿÿ8Ò¥¦-
+Ksquid:S1940n"(Use the opposite operator ("<") instead.(åßôÿÿÿÿÿ8°Êü¦-
+nsquid:CommentedOutCodeLine""<This block of commented-out lines of code should be removed.(¼îğĞüÿÿÿÿ8‚²ò’¦-

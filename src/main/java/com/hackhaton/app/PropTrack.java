@@ -105,18 +105,18 @@ public class PropTrack
 
         if(!(temp >= 268.15) & !(temp <= 297.15)){
 
-            score =- 20;
+            score -= 20;
 
         } else if (!(humidity >= 30) &  !(humidity <= 50 )){
 
-            score =-30;
+            score -=30;
 
         }else if (!(waterPresure >=25) & !(waterPresure <= 75)){
 
-                score= -10;
+                score-= 10;
         } else if (!(pipeTemp >= 2) & !(pipeTemp <= 30)){
 
-            score=-40;
+            score -=40;
 
         }
         return score;
